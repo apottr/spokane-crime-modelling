@@ -17,7 +17,7 @@ mccabe==0.6.1
 numpy==1.14.2
 protobuf==3.5.2.post1
 pylint==1.8.3
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 rope==0.10.7
 scipy==1.0.1
